@@ -1,0 +1,86 @@
+body{
+ background: rgb(236, 214, 214);
+
+}
+.containerform{
+    height: 95vh;
+    width: 80vh;
+    border-radius: 7px;
+    background: white;
+    justify-self: center;
+    justify-items: center;
+    font-size: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: rgb(88, 67, 22);
+    text-align: left; 
+    
+}
+h3{
+    color: rgb(116, 102, 102);
+    padding-top: 17px;
+}
+#firstname{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background: rgb(207, 207, 219);
+}
+#lastname{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background: rgb(207, 207, 219);
+}
+#middlename{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background: rgb(207, 207, 219);
+}
+#Email{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background: rgb(207, 207, 219);
+}
+#phonenumber{
+    width: 220px;
+    height: 22px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background: rgb(207, 207, 219);
+}
+#create{
+    width: 200px;
+    height: 20px;
+    border-radius: 2px;
+    margin-top: 5px;
+    background: rgb(207, 207, 219);
+}
+p{
+    color: red;
+    margin-top: 15px;
+    font-size: 15px;
+}
+button{
+    color: rgb(123, 10, 230);
+    background: white;
+    width: 100px;
+    position: relative;
+    top: -35px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 8px;
+}
+#a{
+    color: rgb(90, 107, 119);
+   position: relative;
+    top: -40px;
+    font-size: medium;
+    
+    
+}

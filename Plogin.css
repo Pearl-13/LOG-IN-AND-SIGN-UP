@@ -1,0 +1,109 @@
+body {
+    height: 100vh;
+    position: relative;
+    background: linear-gradient(90deg,rgb(28, 171, 214),rgb(238, 72, 210));
+
+   }
+.container {
+    height: 75%;
+    width: 80%;
+    max-width: 350px;
+    background: white;
+    align-items: center;
+    border-radius: 7px;
+    position: absolute;
+    top: 50%;
+    left: 50%;    
+    transform: translate(-50%, -50%);
+    text-align: left;
+    padding-left: 5%;
+
+}
+h1 {
+    color: rgb(19, 18, 19);
+    font-family: Arial, sans-serif; 
+    position: relative;
+    left: 110px;
+    
+}
+#A {
+    color: blueviolet;
+    font-family: sans-serif, monospace;
+   
+    
+}
+#B {
+    border-radius: 5px;
+    width: 200px;
+    border-radius: 0,0,2px,2px;
+    height: 20px;
+    display: flex;
+   
+    
+}
+#C {
+    color: blueviolet;
+    font-family: sans-serif, monospace;
+   
+
+}
+#D {
+    border-radius: 5px;
+    width: 180px;
+    border-radius: 0,0,2px,2px;
+    height: 20px;
+    display: flex;
+}
+#E {
+    text-align: right;
+    position: absolute;
+    right: 10px;
+    margin-top: 0px;
+
+}
+button {
+    width: 185px;
+    border-radius: 10px;
+    background: linear-gradient(45deg,rgb(28, 171, 214),rgb(238, 72, 210));
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 20%;
+    justify-content: center;
+
+}
+#Button{
+    margin-top: 5px;
+    background: rgb(173, 157, 189);
+    width: 90px;
+    height: 25px;
+    right: 130px;
+}
+#F {
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+
+    
+}
+
+#G {
+    position: absolute;
+    right: 120px;
+    top: 360px;
+    
+}
+#H {
+    
+    position: absolute;
+    right: 200px;
+    top: 360px;
+
+}
+#I {
+    
+    position: absolute;
+    right: 150px;
+    top: 355px;
+
+}
